@@ -1,6 +1,14 @@
 p {
 color: blue;
-text-decoration: overline;
+text-decoration: line-through;
+}
+
+body {
+margin: 0 auto;
+max-width: 50em;
+line-heigth: 3;
+padding: 5em 1em;
+font-family: 'Helvetica' 'Arial' sans-serif;
 }
 
 .a {
