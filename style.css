@@ -1,23 +1,22 @@
-p {
-background-color: red
+
+.a {
+width: 200px;
+heigth:100px;
+background-color: pink;
+position: absolute;
 }
 
-h1 {
-color: yellow
+.b {
+width:200px;
+heigth: 100px;
+background-color: purple;
+position: absolute;
+left: 300px
 }
-
-ul {
-color: purple
-}
-
-.tama {
-background-color: green
-}
-
-.pieni {
-color: orange
-}
-
-#tunniste {
-color: pink
+.c {
+width: 200px;
+heigth: 100px;
+background-color: orange;
+position: absolute;
+left: 600px;
 }
